@@ -8,7 +8,7 @@ run 'demo_IMH.m' for a demo.
 
 Any questions/comments are welcome (fumin.shen[at]gmail.com, chhshen[at]gmail.com).
 
-If you use this code in your research paper, please cite our CVPR2013 or IEEE T Image Process. paper
+If you use this code in your research paper, please cite our CVPR2013 or the IEEE T Image Process.
 paper:
 
 ```
@@ -22,7 +22,7 @@ paper:
     pages       = {},
     volume      = {},
     publisher   = {},
-    url         = {},
+    url         = {http://arxiv.org/abs/1303.7043},
 }
 ```
 
@@ -32,11 +32,11 @@ paper:
     title       = {Hashing on nonlinear Manifolds},
     year        = {2015},
     month       = {},
-    journal   = {IEEE Transactions on Image Processing},
+    journal     = {IEEE Transactions on Image Processing},
     pages       = {},
     volume      = {},
     publisher   = {},
-    url         = {},
+    url         = {http://arxiv.org/abs/1412.0826},
 }
 ```
 
