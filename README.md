@@ -1,10 +1,6 @@
 
 
-  Code for the paper ``Inductive Hashing on Manifolds",
-
-  by Fumin Shen, Chunhua Shen, Qinfeng Shi, Anton van den Hengel, Zhenmin Tang.
-In: IEEE Conf. Computer Vision and Pattern Recognition (CVPR2013).
-
+Matlab code for ``Inductive Hashing on Manifolds"
 
 
 run 'demo_IMH.m' for a demo.
@@ -23,6 +19,20 @@ paper:
     month       = {},
     booktitle   = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR'13)},
     address     = {Oregon, USA},
+    pages       = {},
+    volume      = {},
+    publisher   = {},
+    url         = {},
+}
+```
+
+```
+@article{TIP15Shen,
+    author      = {Fumin Shen and Chunhua Shen and Qinfeng Shi and Anton {van den Hengel} and Zhenmin Tang and Heng Tao Shen},
+    title       = {Hashing on nonlinear Manifolds},
+    year        = {2015},
+    month       = {},
+    journal   = {IEEE Transactions on Image Processing},
     pages       = {},
     volume      = {},
     publisher   = {},
